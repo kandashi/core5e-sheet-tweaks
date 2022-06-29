@@ -9,10 +9,10 @@
 
 Colour customizable pips displaying current usage for spells/items/features
 
-![Usage Pips](https://github.com/kandashi/core5e-sheet-tweaks/images/useage_pips.PNG)
+![Usage Pips](https://github.com/kandashi/core5e-sheet-tweaks/blob/master/images/useage_pips.PNG?raw=true)
 
 ### Attunement Colouring
 
 Custom colours (as well as a shadow background) for Attunement/Preparation icons
 
-![Attunement Colours](https://github.com/kandashi/core5e-sheet-tweaks/images/attunement.PNG)
+![Attunement Colours](https://github.com/kandashi/core5e-sheet-tweaks/blob/master/images/attunement.PNG?raw=true)
